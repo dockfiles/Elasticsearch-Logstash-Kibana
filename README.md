@@ -7,7 +7,7 @@ Project structure:
 └── compose.yaml
 ```
 
-[_compose.yaml_](compose.yaml)
+compose.yaml
 ```
 services:
   elasticsearch:
